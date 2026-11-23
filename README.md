@@ -47,7 +47,7 @@
 ## How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/gumaadolf-blip/uae-netzero-freight-ai.git
    ```
 2. Install required packages:
    ```bash
