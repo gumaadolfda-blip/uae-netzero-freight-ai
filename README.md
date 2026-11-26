@@ -1,7 +1,7 @@
 # UAE NetZero Freight: Multi-Source Supply Chain & Maritime Decarbonization Engine
 
 **Author:** Guma Adolf | Founder & Lead Data Architect, NG Advisory Co.  
-**Live Interactive App:** [gumadolffofficial.streamlit.app](https://gumadolffofficial.streamlit.app)  
+**Live Interactive App:** [https://gumadolffofficial.streamlit.app](https://gumadolffofficial.streamlit.app)  
 **LinkedIn:** [linkedin.com/in/gumadolf](https://www.linkedin.com/in/gumadolf)  
 **Policy Alignment:** UAE Net Zero 2050 Strategy | Federal Decree-Law No. 11/2023 (Carbon Reporting)
 
